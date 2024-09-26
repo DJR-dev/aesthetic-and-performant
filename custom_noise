@@ -1,0 +1,12 @@
+{
+    "amplitudes": [1],
+    "firstOctave": 0,
+    "noise_router": {
+        "minecraft:noise": {
+            "custom_noise": {
+                "amplitudes": [1],
+                "firstOctave": 0
+            }
+        }
+    }
+}
